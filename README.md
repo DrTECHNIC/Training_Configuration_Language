@@ -43,25 +43,31 @@
 ```Bash
 git clone https://github.com/DrTECHNIC/Training_Configuration_Language
 ```
-Скачивание библиотек [...](https://github.com/) и [pytest](https://github.com/pytest-dev/pytest) путём запуска файла [script.sh](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/script.sh):
+Скачивание библиотеки [pytest](https://github.com/pytest-dev/pytest) путём запуска файла [script.sh](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/script.sh):
 ```Bash
 script.sh
 ```
 # Запуск
-
-
 Запуск [main.py](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/main.py):
 ```Bash
-py main.py
+py main.py <имя_файла>
 ```
 Запуск [test.py](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/test.py):
 ```Bash
 pytest -v test.py
 ```
 # Тесты
-## Тест 1
-![]()
-## Тест 2
-![]()
+## Тест 1 (вход)
+![](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/test1_input.png)
+## Тест 1 (выход)
+![](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/test1_output.png)
+## Тест 2 (вход)
+![](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/test2_input.png)
+## Тест 2 (выход)
+![](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/test2_output.png)
+## Тест 3 (вход)
+![](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/test3_input.png)
+## Тест 3 (выход)
+![](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/test3_output.png)
 ## Общие тесты
-![]()
+![](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/pytest.png)

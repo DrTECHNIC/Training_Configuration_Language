@@ -1,0 +1,9 @@
+// Конфигурация умного дома
+set lights_on = @"true"            // Включить свет
+set temperature = 22.5             // Задать температуру
+set sensors = { @"motion", @"temp" } // Список датчиков
+set rooms = { @"kitchen", @"living_room", @"bedroom" } // Список комнат
+set flat = { ?[lights_on], ?[temperature], ?[sensors], ?[rooms] } // Информация о квартире
+
+
+
