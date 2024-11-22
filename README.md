@@ -57,17 +57,20 @@ py main.py <имя_файла>
 pytest -v test.py
 ```
 # Тесты
-## Тест 1 (вход)
+## Тест 1
+### Входные данные
 ![](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/test1_input.png)
-## Тест 1 (выход)
+### Выходные данные
 ![](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/test1_output.png)
-## Тест 2 (вход)
+## Тест 2
+### Входные данные
 ![](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/test2_input.png)
-## Тест 2 (выход)
+### Выходные данные
 ![](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/test2_output.png)
-## Тест 3 (вход)
+## Тест 3
+### Входные данные
 ![](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/test3_input.png)
-## Тест 3 (выход)
+### Выходные данные
 ![](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/test3_output.png)
 ## Общие тесты
 ![](https://github.com/DrTECHNIC/Training_Configuration_Language/blob/main/pytest.png)
